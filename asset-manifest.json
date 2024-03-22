@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buoi11/static/css/main.f855e6bc.css",
+    "main.js": "/buoi11/static/js/main.43a59407.js",
+    "static/js/453.60ccc05b.chunk.js": "/buoi11/static/js/453.60ccc05b.chunk.js",
+    "static/media/logo.svg": "/buoi11/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/buoi11/index.html",
+    "main.f855e6bc.css.map": "/buoi11/static/css/main.f855e6bc.css.map",
+    "main.43a59407.js.map": "/buoi11/static/js/main.43a59407.js.map",
+    "453.60ccc05b.chunk.js.map": "/buoi11/static/js/453.60ccc05b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.43a59407.js"
+  ]
+}
